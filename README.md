@@ -120,7 +120,7 @@ Here's a YouTube tutorial video for deploying the bot on [Heroku](https://heroku
 
 You can contact me [@Moksh_b658](https://telegram.dog/moksh_b658 "Moksh_b658").
 
-### Owner Of Original Repo
+### Owner Of Original Repo ( All thanks to this man for making this Repo )
 
 https://github.com/odysseusmax
 
