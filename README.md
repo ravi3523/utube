@@ -30,7 +30,7 @@ This is a simple hobby project which I was really curious about to implement. Th
 **Clone and setup virtual environment**
 
 ```bash
-$ git clone https://github.com/odysseusmax/utube.git
+$ git clone https://github.com/GreyMatter658/utube/tree/My-Branch
 
 $ cd utube
 
@@ -82,7 +82,7 @@ If you did everything correctly, the bot should be running. Go do `/start` to se
 
 **Or the easy way of directly deploying to heroku**
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/GreyMatter658/utube/tree/My-Branch)
 
 ### Development Status
 
@@ -114,11 +114,11 @@ This project is actively maintained and will continue so until I'm tired of it.
 
 ### Video Tutorial
 
-Here's a YouTube tutorial video for deploying the bot on [Heroku](https://heroku.com/ "Heroku"). [Video Link](http://www.youtube.com/watch?v=LSs8b5dMWIA "Tutorial video for deploying to Heroku").
+Here's a YouTube tutorial video for deploying the bot on [Heroku](https://heroku.com/ "Heroku"). [Video Link](https://youtu.be/QHHTSS00anw "Tutorial video for deploying to Heroku").
 
 ### Contact
 
-You can contact me [@odysseusmax](https://telegram.dog/odysseusmax "odysseusmax").
+You can contact me [@Moksh_b658](https://telegram.dog/moksh_b658 "Moksh_b658").
 
 ### License
 
