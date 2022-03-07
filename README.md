@@ -114,12 +114,18 @@ This project is actively maintained and will continue so until I'm tired of it.
 
 ### Video Tutorial
 
-Here's a YouTube tutorial video for deploying the bot on [Heroku](https://heroku.com/ "Heroku"). [Video Link](http://www.youtube.com/watch?v=LSs8b5dMWIA "Tutorial video for deploying to Heroku").
+Here's a YouTube tutorial video for deploying the bot on [Heroku](https://heroku.com/ "Heroku"). [Video Link](https://youtu.be/QHHTSS00anw "Tutorial video for deploying to Heroku").
 
 ### Contact
 
-You can contact me [@odysseusmax](https://telegram.dog/odysseusmax "odysseusmax").
+You can contact me [@Moksh_b658](https://telegram.dog/Moksh_b658 "GreyMatter").
 
+### Credits
+Original Repo Owner 👇
+[@odysseusmax](https://github.com/odysseusmax)
+
+
+All thanks to him for his work and codes🙏.
 ### License
 
 Code released under [GNU General Public License v3.0](LICENSE).
